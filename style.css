@@ -1,8 +1,8 @@
 .imran2 {
     background-image: url("img/Imran Rana 2.png");
     background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 250px;
+    background-size: contain;
+    min-height: 350px;
 }
 .nav {
     min-height: 100px;
@@ -68,10 +68,43 @@ img {
 .contactimg{
     border-radius: 50%;
     border: hidden;
-    width: 70%;
+    width: 50%;
     height: 100%;
 }
 .input {
     border-bottom: 1px solid white;
     color: white;
+    margin-top: 30px;
+}
+.footer {
+    min-height: 80px;
+    font-size: 36px;
+    padding-top: 10px;
+}
+.form {
+    background: #5f7d82;
+}
+.submit {
+    font-size: 13px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background: #5f7d82;
+    margin-top: 45px;
+    margin-bottom: 35px;
+    padding: 10px;
+}
+.small {
+    font-size: 12px;
+}
+.marginbot {
+    margin-bottom: 15px;
+}
+.huge {
+    font-size: 30px;
+}
+.violettext {
+    color: #6f949d;
+}
+.margintop {
+    margin-top: 15%;
 }
