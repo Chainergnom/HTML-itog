@@ -1,7 +1,7 @@
 .imran2 {
     background-image: url("img/Imran Rana 2.png");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     min-height: 250px;
 }
 .nav {
@@ -18,8 +18,52 @@
     background-color: #6f949d;
 }
 .common {
-    min-height: 250px;
+    min-height: 350px;
+}
+.common1 {
+    min-height: 450px;
+}
+.description {
+    min-height: 600px;
 }
 .black {
     background-color: black;
 }
+.white {
+    color: white;
+}
+.big {
+    font-size: 20px;
+}
+.medium {
+    font-size: 16px;
+}
+.imran {
+    background-image: url("img/Imran Rana 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lightviolet {
+    background-color: #e4e8eb;
+}
+img {
+    width: 14%;
+    height: 5%;
+    margin-right: 45px;
+}
+.logo {
+    min-height: 125px;
+}
+.topmargin {
+    margin-top: 20px;
+}
+.btn2 {
+    width: 180px;
+    margin-left: 100px;
+}
+.row:after {
+    display: block;
+    content: '';
+    clear: both;
+}
+
