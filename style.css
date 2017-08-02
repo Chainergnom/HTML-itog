@@ -49,7 +49,7 @@
 img {
     width: 14%;
     height: 5%;
-    margin-right: 45px;
+    margin-left: 45px;
 }
 .logo {
     min-height: 125px;
@@ -59,11 +59,19 @@ img {
 }
 .btn2 {
     width: 180px;
-    margin-left: 100px;
 }
 .row:after {
     display: block;
     content: '';
     clear: both;
 }
-
+.contactimg{
+    border-radius: 50%;
+    border: hidden;
+    width: 70%;
+    height: 100%;
+}
+.input {
+    border-bottom: 1px solid white;
+    color: white;
+}
