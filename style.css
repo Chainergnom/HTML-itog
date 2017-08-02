@@ -1,0 +1,25 @@
+.imran2 {
+    background-image: url("img/Imran Rana 2.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 250px;
+}
+.nav {
+    min-height: 100px;
+}
+.centr {
+    text-align: center;
+}
+.knopki {
+    border: hidden;
+    border-radius: 5px;
+}
+.violet {
+    background-color: #6f949d;
+}
+.common {
+    min-height: 250px;
+}
+.black {
+    background-color: black;
+}
