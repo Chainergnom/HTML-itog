@@ -108,3 +108,11 @@ img {
 .margintop {
     margin-top: 15%;
 }
+@media all and (max-width: 750px) {
+    .margintop{
+    margin-top:2%;}
+}
+@media all and (max-width: 970px) {
+    .margintop{
+        margin-top:8%;}
+}
